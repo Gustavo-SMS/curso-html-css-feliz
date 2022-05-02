@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-first: #F25A70;
+    --color-second: #7C5E99;
+    --color-third: #FFF;
+    --color-fourth: #4C5B84;
+
+    --color-black-first: #000;
+    --color-black-second: #3A4042;
+    --color-black-third: #828282;
+
+    --color-error: #BA1F33;
+    --color-warning: #CEB02A;
+    --color-success: #62C370;
+
+    --title-font: "Press Start 2p", sans-serif;
+    --body-font: "Fira Code", sans-serif;
+}

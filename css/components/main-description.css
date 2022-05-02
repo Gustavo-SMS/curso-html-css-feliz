@@ -1,0 +1,9 @@
+.main-description {
+    font-family: var(--body-font), sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3;
+    color: var(--color-third);
+    padding-left: 50px;
+    padding-right: 50px;
+}

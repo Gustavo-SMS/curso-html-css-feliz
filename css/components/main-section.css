@@ -1,0 +1,26 @@
+.main-section {
+    background-color: var(--color-first);
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid var(--color-second);
+}
+
+.main-section .main-title {
+    margin-bottom: 60px;
+}
+
+.main-section.-bgBlack {
+    background-color: var(--color-black-first);
+}
+
+.main-section.-bgPurple {
+    background-color: var(--color-second);
+}
+
+.main-section.-bdFirst {
+    border-color: var(--color-first);
+}
+
+.main-section.-bdBlack {
+    border-color: var(--color-black-first);
+}
